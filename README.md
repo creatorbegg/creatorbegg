@@ -1,6 +1,6 @@
 # **Seunghyeon You**
 
-[✓ English Version](README.md) | [Korean Version](README-kr.md)
+[✓ English Version](README.md) | [Korean(한국어) Version](README-kr.md)
 
 [![Static Badge](https://img.shields.io/badge/-%40creatorbegg-000000?style=for-the-badge&logo=x)](https://x.com/creatorbegg)
 [![Static Badge](https://img.shields.io/badge/-%40seunghyeonyou-%23FF0069?style=for-the-badge&logo=Instagram)](https://instagram.com/seunghyeonyou)
