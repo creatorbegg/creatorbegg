@@ -3,7 +3,7 @@
 [English Version](README.md) | [✓ Korean Version](README-kr.md)
 
 [![Static Badge](https://img.shields.io/badge/-%40creatorbegg-000000?style=for-the-badge&logo=x)](https://x.com/creatorbegg)
-[![Static Badge](https://img.shields.io/badge/-%40seunghyeonyou-%23FF0069?style=for-the-badge&logo=Instagram)](https://instagram.com/seunghyeonyou)
+[![Static Badge](https://img.shields.io/badge/-%40youseunghyeon-%23FF0069?style=for-the-badge&logo=Instagram)](https://instagram.com/youseunghyeon)
 [![Static Badge](https://img.shields.io/badge/Email-begg%40begg.xyz-%23EA4335?style=for-the-badge&logo=maildotru)](mailto:begg@begg.xyz)
 
 대한민국에서 활동하는 프로덕트 빌더이자 디자이너, 그리고 스타트업 창업가입니다.  
